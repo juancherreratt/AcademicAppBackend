@@ -5,7 +5,7 @@ Backend desarrollado en ASP.NET Core con Clean Architecture para la gestión aca
 ## 📆 Clonación del repositorio
 
 ```bash
-git clone [https://github.com/juancherreratt/AcademicAppBackend.git](https://github.com/juancherreratt/AcademicAppBackend.git)
+git clone https://github.com/juancherreratt/AcademicAppBackend.git
 cd AcademicAppBackend
 ```
 
